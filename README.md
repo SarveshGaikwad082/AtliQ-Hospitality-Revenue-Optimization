@@ -1,4 +1,4 @@
-# AtliQ Grands — Revenue Performance & Market Share Analysis
+# AtliQ Grands — Hospitality Revenue Optimization
 
 **Domain:** Hospitality | **Tools:** Python, SQL (SQLite) | **Status:** Analysis Complete — Power BI Dashboard In Progress
 
