@@ -16,6 +16,14 @@ AtliQ Grands is a luxury hotel chain operating across 4 cities in India — Mumb
 They hired a Data Analyst to analyze 3 months of historical booking data and identify root causes with actionable recommendations.
 
 ---
+## Dashboard Preview
+
+**Page 1 — Business Overview**
+![Dashboard Page 1](images/dashboard_page1.png)
+
+**Page 2 — Issues & Root Cause**
+![Dashboard Page 2](images/dashboard_page2.png)
+
 
 ## Dataset Overview
 
