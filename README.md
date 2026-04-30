@@ -19,11 +19,11 @@ They hired a Data Analyst to analyze 3 months of historical booking data and ide
 
 ## Dashboard Preview
 
-**Page 1 — Business Overview**
-![Dashboard Page 1](dashboard1.png)
+### 📊 Page 1 — Business Overview
+![Dashboard Page 1](./Dashboard%20Page1.jpeg)
 
-**Page 2 — Issues & Root Cause**
-![Dashboard Page 2](dashboard2.png)
+### 📊 Page 2 — Issues & Root Cause
+![Dashboard Page 2](./Dashboard%20Page2.jpeg)
 
 
 ## Dataset Overview
